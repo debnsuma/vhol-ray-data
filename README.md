@@ -16,7 +16,7 @@ This free lab is more than a webinar. You'll leave with a working understanding 
 
 ![Ray Overview](assets/img01.png)
 
-## Repository Contents
+## Contents
 
 ### Main Lab Notebook: `VHOL.ipynb`
 
